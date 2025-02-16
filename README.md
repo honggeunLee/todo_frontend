@@ -67,10 +67,3 @@ npm run build   # 또는 yarn build
 
 - 사용자의 입력을 받아 `TodoList`에 추가하기 위해 사용.
 
-## 4. 기술 스택
-
-- **Frontend:** React, TypeScript, Vite
-- **UI 라이브러리:** Ant Design
-- **상태 관리:** useState, useReducer
-- **데이터 저장:** LocalStorage
-
